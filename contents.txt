@@ -1,0 +1,33 @@
+Physics:
+1.Gravitation 11111111111111
+2.Current Electricity 111111111111111
+3.Magnetism 11111111111111111
+4.circular motion 1111111111111
+5.Kinetic Theory
+6.Oscillations 111111111111
+7.Waves
+8.Atoms Molecules and nuclei
+9.Semiconductors
+10.Laws of motion
+11.Rotational Motion
+12.Work, energy and power
+
+chemistry:
+1.periodic table 1111111111
+2.hydrocarbons 111111111111
+3.structure of atoms 11111111111
+4.coordination compounds 11111111111
+5.electrochemistry 11111111111
+6.p-blocks
+
+
+
+
+
+Biology:
+1.5 kingdom classification 11111111111111
+2.genes 11111111111111111
+3.circulation 1111111111111111111
+4.plantae 11111111111111
+5.animalia 111111111111111
+6.respiration 11111111111111
